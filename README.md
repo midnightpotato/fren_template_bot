@@ -9,7 +9,7 @@ README
 1. Create a python virtual environment
   * `python3 -m venv venv`
 1. Step into virtual environment
-  * `. ./venv/bin/activate
+  * `. ./venv/bin/activate`
   * if you use fish shell, it will be activate.fish instead of activate
 1. Install requirements
   * `pip3 install -r requirements.txt`
